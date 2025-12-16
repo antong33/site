@@ -1,0 +1,22 @@
+p{
+	color: gray;
+}
+
+h1{
+	color: red;
+	background-color: blue;
+}
+
+.special{
+	color: lightpink;
+	font-weight: bold;
+}
+
+
+
+
+//сделать сайт из 2х страниц с помощью бут стреп
+//нужно:
+//карусель с фото           carousel
+//матерьялы, карточки как на озоне(картинка+название+кнопка)      cards
+<!--меню         navbar--!>
